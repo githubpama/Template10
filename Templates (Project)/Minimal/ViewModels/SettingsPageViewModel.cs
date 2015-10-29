@@ -31,7 +31,7 @@ namespace Sample.ViewModels
 
         #endregion
 
-        #region About
+        #region pama
 
         public Uri Logo { get { return Windows.ApplicationModel.Package.Current.Logo; } }
         public string DisplayName { get { return Windows.ApplicationModel.Package.Current.DisplayName; } }

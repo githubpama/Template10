@@ -9,6 +9,7 @@ namespace Sample.Views
         {
             InitializeComponent();
             NavigationCacheMode = Windows.UI.Xaml.Navigation.NavigationCacheMode.Disabled;
+
         }
 
         // strongly-typed view models enable x:bind
